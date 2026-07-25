@@ -1,0 +1,4 @@
+I live in India!
+I live in India!
+I live in India!python -u "d:\C_GT_Python\python-courses\Day 10\Project\04_project.py"
+I live in India!
